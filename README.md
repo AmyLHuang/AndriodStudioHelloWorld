@@ -21,7 +21,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/AmyLHuang/AndriodStudioHelloWorld/blob/main/ASHelloWorld.gif' title='Video Walkthrough' width='200px' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows.  
@@ -32,7 +32,7 @@ GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+A challenge I encountered while building the app was setting up the emulator. However, after tinkering around for a few minutes, I was able to make it work. 
 
 ## License
 
