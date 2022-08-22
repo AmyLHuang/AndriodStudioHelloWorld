@@ -32,7 +32,7 @@ GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows.
 
 ## Notes
 
-A challenge I encountered while building the app was setting up the emulator. However, after tinkering around for a few minutes, I was able to make it work. 
+A challenge I encountered while building the app was setting up the emulator. However, after tinkering around for a few minutes, I was able to figure out the problem and fixed it. 
 
 ## License
 
