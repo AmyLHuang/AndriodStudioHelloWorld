@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="intro">Hello! My name is Amy! I am a third year majoring in CS and I love Tetris!</string>
+    <string name="button_text">Say Hello!</string>
+</resources>
